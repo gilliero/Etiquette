@@ -22,9 +22,16 @@ This significantly simplifies inventory checks and ensures accurate identificati
 - Server name clearly printed on the label  
 - Automatic printing of all generated labels  
 
+## Requirements
+Before running the script, make sure you have:
+- **Python 3.x** installed  
+- **Brother P-touch Editor** installed ([Download here](https://www.brother.ch/fr-ch/support/ql-720nw/downloads))  
+- A valid **DCIM API token**  
+
 ---
 
 ## Usage
+Connect your laptop to the INJ 035 label printer.
 Run the script from your terminal with:
 
 ```bash
