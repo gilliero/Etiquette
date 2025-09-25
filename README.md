@@ -28,4 +28,4 @@ This significantly simplifies inventory checks and ensures accurate identificati
 Run the script from your terminal with:
 
 ```bash
-python script.py
+python3 'stickers - APIIv2.py' --token xxxAPITokenxxx
